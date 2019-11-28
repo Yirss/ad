@@ -1,5 +1,5 @@
 *.class
-ad.iml
+*.iml
 .idea
 target
 logs
