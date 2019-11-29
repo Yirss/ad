@@ -1,4 +1,4 @@
-package com.my.zuul;
+package com.my.ad;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;

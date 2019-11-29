@@ -1,4 +1,4 @@
-package com.my.eureka;
+package com.my.ad;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
