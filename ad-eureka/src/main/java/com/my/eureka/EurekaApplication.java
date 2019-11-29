@@ -1,9 +1,16 @@
-package com.my.ad;
+package com.my.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
+/**
+ * @ClassName EurekaApplication
+ * @Deseription 注册中心-启动类
+ * @Author ywk
+ * @Date 2019/11/29 10:26
+ * @Version 1.0
+ */
 @EnableEurekaServer
 @SpringBootApplication
 public class EurekaApplication {

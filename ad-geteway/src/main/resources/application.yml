@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ad-geteway
+server:
+  port: 8010
+eureka:
+  client:
+    service-url:
+      defaultZone: http://server1:8000/eureka/
